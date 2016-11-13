@@ -246,6 +246,7 @@ examples of Julia Set frames to help you get started.
 <img src="/images/examples.jpg" style="width: 100%"/>
 
 __A__
+
 * `size` = 400
 * `center_re` = 0.0
 * `center_im` = 0.0
@@ -255,6 +256,7 @@ __A__
 * color map: brg.jpg 
 
 __B__
+
 * `size` = 400
 * `center_re` = 0.49 
 * `center_im` = 0.1
@@ -264,6 +266,7 @@ __B__
 * color map: gnuplut.jpg 
 
 __C__
+
 * `size` = 400
 * `center_re` = 0.46
 * `center_im` = 0.0
@@ -273,6 +276,7 @@ __C__
 * color map: ocean.jpg 
 
 __D__
+
 * `size` = 400
 * `center_re` = 0.2
 * `center_im` = 0.4
