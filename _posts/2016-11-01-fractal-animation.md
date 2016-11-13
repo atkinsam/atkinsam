@@ -262,7 +262,7 @@ __B__
 * `center_im` = 0.1
 * `zoom` = 0.19 
 * `c_re` = 0.26
-* `c_im` = 0.0.001
+* `c_im` = 0.001
 * color map: gnuplut.jpg 
 
 __C__
